@@ -122,24 +122,24 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- facebook -->
-  <a href="https://fb.com/tcish" target="blank"
-    ><img
-      align="center"
+  <a href="https://fb.com/tcish" target="blank">
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="tcish"
       height="30"
       width="40"
-  /></a>
+     />
+  </a>
 
   <!-- linkedin -->
-  <a href="https://linkedin.com/in/tcish" target="blank"
-    ><img
-      align="center"
+  <a href="https://linkedin.com/in/tcish" target="blank">
+    <img
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="tcish"
       height="30"
       width="40"
-  /></a>
+     />
+  </a>
 </p>
 
 <!-- MOST USE LANGUAGE -->
