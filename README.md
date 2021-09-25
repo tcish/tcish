@@ -146,7 +146,7 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=tcish&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=tcish&show_icons=true&locale=en&layout=compact&theme=cobalt"
     alt="tcish"
   />
 </p>
@@ -160,7 +160,7 @@
 
   <!-- GITHUB STREAK -->
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tcish"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=tcish&theme=highcontrast"
     alt="tcish"
   />
 </p>
@@ -169,7 +169,7 @@
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=tcish"
+      src="https://github-profile-trophy.vercel.app/?username=tcish&theme=algolia"
       alt="tcish"
   /></a>
 </p>
