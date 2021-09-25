@@ -154,7 +154,7 @@
 <p>
   <!-- GITHUB STATS -->
   <img
-    src="https://github-readme-stats.vercel.app/api?username=tcish&count_private=true&theme=onedark"
+    src="https://github-readme-stats.vercel.app/api?username=tcish&count_private=true&show_icons=true&theme=onedark"
     alt="tcish"
   />
 
