@@ -1,9 +1,5 @@
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
-
 <!-- NAME SECTION -->
-<h1 align="center" style="font-family: 'Pacifico', cursive; font-size: 2.5rem; color: crimson;">Hi, I'm Shuvo</h1>
+<h1 align="center">Hi, I'm Shuvo</h1>
 <h2 align="center">A passionate full-stack developer</h3>
 
 <!-- PROFILE VIEW COUNT -->
@@ -145,7 +141,6 @@
 <!-- MOST USE LANGUAGE -->
 <p>
   <img
-    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=tcish&show_icons=true&locale=en&layout=compact&theme=cobalt"
     alt="tcish"
   />
@@ -166,7 +161,7 @@
 </p>
 
 <!-- TROPHY -->
-<p align="left">
+<p>
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
       src="https://github-profile-trophy.vercel.app/?username=tcish&theme=algolia"
