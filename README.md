@@ -138,14 +138,6 @@
   </a>
 </p>
 
-<!-- MOST USE LANGUAGE -->
-<p>
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=tcish&show_icons=true&locale=en&layout=compact&theme=cobalt"
-    alt="tcish"
-  />
-</p>
-
 <p>
   <!-- GITHUB STATS -->
   <img
