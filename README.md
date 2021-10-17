@@ -2,14 +2,6 @@
 <h1 align="center">Hi, I'm Shuvo</h1>
 <h2 align="center">A passionate full-stack developer</h3>
 
-<!-- PROFILE VIEW COUNT -->
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=tcish&label=Profile%20views&color=0e75b6&style=flat"
-    alt="tcish"
-  />
-</p>
-
 <!-- LANGUAGES & TECHNOLOGIES -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -112,51 +104,4 @@
       height="40"
     />
   </a>
-</p>
-
-<!-- SOCIAL LINKS -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <!-- facebook -->
-  <a href="https://fb.com/tcish" target="blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="tcish"
-      height="30"
-      width="40"
-     />
-  </a>
-
-  <!-- linkedin -->
-  <a href="https://linkedin.com/in/tcish" target="blank">
-    <img
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="tcish"
-      height="30"
-      width="40"
-     />
-  </a>
-</p>
-
-<p>
-  <!-- GITHUB STATS -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tcish&count_private=true&show_icons=true&theme=onedark"
-    alt="tcish"
-  />
-
-  <!-- GITHUB STREAK -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=tcish&theme=highcontrast"
-    alt="tcish"
-  />
-</p>
-
-<!-- TROPHY -->
-<p>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"
-    ><img
-      src="https://github-profile-trophy.vercel.app/?username=tcish&theme=algolia"
-      alt="tcish"
-  /></a>
 </p>
