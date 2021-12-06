@@ -54,6 +54,16 @@
       height="40"
     />
   </a>
+  
+  <!-- nodejs -->
+  <a href="https://nodejs.org/en/" target="_blank">
+    <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"
+      alt="javascript"
+      width="40"
+      height="40"
+    />
+  </a>
 
   <!-- php -->
   <a href="https://www.php.net" target="_blank">
